@@ -1,0 +1,9 @@
+* {padding: 0;margin: 0;}
+li {list-style: none;}
+.image {border: none}
+a {text-decoration: none;}
+a:hover{text-decoration: none;}
+body {background:#fff url(../images/header.png ) repeat-x;}
+.top_menu li{
+	float:left;
+}
